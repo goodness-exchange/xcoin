@@ -1,0 +1,2 @@
+# xcoin
+Goodness Exchange Coin
